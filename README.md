@@ -20,8 +20,11 @@ Requirements
 Install
 =======
 Edit the line to set the hack fingerprint you're looking for (HACKCHAIN='')
+
 Copy to a working dir such as /home/hackfix/
-Chmod 755
+
+Make executable: chmod 755
+
 Launch from command line: ./linux-injection-hack-fixer.sh
 
 To Do
